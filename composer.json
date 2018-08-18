@@ -1,0 +1,17 @@
+{
+    "name": "eli2n/laravel-xml-response",
+    "require": {
+        "eli2n/array2xml": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "L-Eli",
+            "email": "l.lin860218@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Eli2n\\XmlResponse\\": "src/"
+        }
+    }
+}
